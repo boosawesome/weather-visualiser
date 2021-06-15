@@ -1,0 +1,335 @@
+{
+    "2018-11-08T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 135.7,
+        "surface_sea_water_speed": 0.078,
+        "sea_surface_wave_maximum_height": 7.06
+    },
+    "2018-11-08T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 239,
+        "surface_sea_water_speed": 0.07,
+        "sea_surface_wave_maximum_height": 7.41
+    },
+    "2018-11-08T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 123.9,
+        "surface_sea_water_speed": 0.06,
+        "sea_surface_wave_maximum_height": 7.79
+    },
+    "2018-11-08T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 240.8,
+        "surface_sea_water_speed": 0.052,
+        "sea_surface_wave_maximum_height": 7.98
+    },
+    "2018-11-08T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 239.8,
+        "surface_sea_water_speed": 0.046,
+        "sea_surface_wave_maximum_height": 7.93
+    },
+    "2018-11-08T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 238.8,
+        "surface_sea_water_speed": 0.041,
+        "sea_surface_wave_maximum_height": 7.63
+    },
+    "2018-11-08T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 238.8,
+        "surface_sea_water_speed": 0.036,
+        "sea_surface_wave_maximum_height": 7.16
+    },
+    "2018-11-08T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 242,
+        "surface_sea_water_speed": 0.033,
+        "sea_surface_wave_maximum_height": 6.79
+    },
+    "2018-11-09T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 240.8,
+        "surface_sea_water_speed": 0.028,
+        "sea_surface_wave_maximum_height": 6.6
+    },
+    "2018-11-09T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 241.8,
+        "surface_sea_water_speed": 0.027,
+        "sea_surface_wave_maximum_height": 6.8
+    },
+    "2018-11-09T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 242.8,
+        "surface_sea_water_speed": 0.032,
+        "sea_surface_wave_maximum_height": 7.14
+    },
+    "2018-11-09T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 242,
+        "surface_sea_water_speed": 0.04,
+        "sea_surface_wave_maximum_height": 7.02
+    },
+    "2018-11-09T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 240.8,
+        "surface_sea_water_speed": 0.039,
+        "sea_surface_wave_maximum_height": 6.69
+    },
+    "2018-11-09T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 245.2,
+        "surface_sea_water_speed": 0.036,
+        "sea_surface_wave_maximum_height": 6.57
+    },
+    "2018-11-09T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 244,
+        "surface_sea_water_speed": 0.044,
+        "sea_surface_wave_maximum_height": 6.6
+    },
+    "2018-11-09T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 243,
+        "surface_sea_water_speed": 0.054,
+        "sea_surface_wave_maximum_height": 6.63
+    },
+    "2018-11-10T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 244.9,
+        "surface_sea_water_speed": 0.054,
+        "sea_surface_wave_maximum_height": 6.65
+    },
+    "2018-11-10T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 245.8,
+        "surface_sea_water_speed": 0.047,
+        "sea_surface_wave_maximum_height": 6.96
+    },
+    "2018-11-10T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 252.2,
+        "surface_sea_water_speed": 0.051,
+        "sea_surface_wave_maximum_height": 8.04
+    },
+    "2018-11-10T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 248.2,
+        "surface_sea_water_speed": 0.061,
+        "sea_surface_wave_maximum_height": 8.12
+    },
+    "2018-11-10T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 250.7,
+        "surface_sea_water_speed": 0.063,
+        "sea_surface_wave_maximum_height": 7.95
+    },
+    "2018-11-10T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 248,
+        "surface_sea_water_speed": 0.058,
+        "sea_surface_wave_maximum_height": 7.88
+    },
+    "2018-11-10T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 246.2,
+        "surface_sea_water_speed": 0.062,
+        "sea_surface_wave_maximum_height": 7.92
+    },
+    "2018-11-10T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 244.5,
+        "surface_sea_water_speed": 0.073,
+        "sea_surface_wave_maximum_height": 8.17
+    },
+    "2018-11-11T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 241.5,
+        "surface_sea_water_speed": 0.078,
+        "sea_surface_wave_maximum_height": 8.53
+    },
+    "2018-11-11T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 242.5,
+        "surface_sea_water_speed": 0.068,
+        "sea_surface_wave_maximum_height": 8.83
+    },
+    "2018-11-11T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 243.3,
+        "surface_sea_water_speed": 0.066,
+        "sea_surface_wave_maximum_height": 9.08
+    },
+    "2018-11-11T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 242.5,
+        "surface_sea_water_speed": 0.07,
+        "sea_surface_wave_maximum_height": 9.28
+    },
+    "2018-11-11T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 238.8,
+        "surface_sea_water_speed": 0.069,
+        "sea_surface_wave_maximum_height": 9.43
+    },
+    "2018-11-11T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 235.2,
+        "surface_sea_water_speed": 0.062,
+        "sea_surface_wave_maximum_height": 9.44
+    },
+    "2018-11-11T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.2,
+        "surface_sea_water_speed": 0.06,
+        "sea_surface_wave_maximum_height": 9.27
+    },
+    "2018-11-11T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 231,
+        "surface_sea_water_speed": 0.063,
+        "sea_surface_wave_maximum_height": 9.05
+    },
+    "2018-11-12T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.6,
+        "surface_sea_water_speed": 0.065,
+        "sea_surface_wave_maximum_height": 8.99
+    },
+    "2018-11-12T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232,
+        "surface_sea_water_speed": 0.056,
+        "sea_surface_wave_maximum_height": 8.87
+    },
+    "2018-11-12T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 231.9,
+        "surface_sea_water_speed": 0.05,
+        "sea_surface_wave_maximum_height": 8.66
+    },
+    "2018-11-12T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.6,
+        "surface_sea_water_speed": 0.046,
+        "sea_surface_wave_maximum_height": 8.37
+    },
+    "2018-11-12T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.8,
+        "surface_sea_water_speed": 0.042,
+        "sea_surface_wave_maximum_height": 7.91
+    },
+    "2018-11-12T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.8,
+        "surface_sea_water_speed": 0.035,
+        "sea_surface_wave_maximum_height": 7.51
+    },
+    "2018-11-12T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 232.6,
+        "surface_sea_water_speed": 0.032,
+        "sea_surface_wave_maximum_height": 7.15
+    },
+    "2018-11-12T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 233.3,
+        "surface_sea_water_speed": 0.026,
+        "sea_surface_wave_maximum_height": 6.74
+    },
+    "2018-11-13T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.8,
+        "surface_sea_water_speed": 0.022,
+        "sea_surface_wave_maximum_height": 6.34
+    },
+    "2018-11-13T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.8,
+        "surface_sea_water_speed": 0.021,
+        "sea_surface_wave_maximum_height": 5.95
+    },
+    "2018-11-13T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.8,
+        "surface_sea_water_speed": 0.021,
+        "sea_surface_wave_maximum_height": 5.58
+    },
+    "2018-11-13T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.8,
+        "surface_sea_water_speed": 0.021,
+        "sea_surface_wave_maximum_height": 5.24
+    },
+    "2018-11-13T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.8,
+        "surface_sea_water_speed": 0.028,
+        "sea_surface_wave_maximum_height": 4.92
+    },
+    "2018-11-13T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.2,
+        "surface_sea_water_speed": 0.022,
+        "sea_surface_wave_maximum_height": 4.62
+    },
+    "2018-11-13T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 233.8,
+        "surface_sea_water_speed": 0.018,
+        "sea_surface_wave_maximum_height": 4.37
+    },
+    "2018-11-13T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 233.8,
+        "surface_sea_water_speed": 0.026,
+        "sea_surface_wave_maximum_height": 4.17
+    },
+    "2018-11-14T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 233.8,
+        "surface_sea_water_speed": 0.043,
+        "sea_surface_wave_maximum_height": 4.01
+    },
+    "2018-11-14T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 233.8,
+        "sea_surface_wave_maximum_height": 3.87
+    },
+    "2018-11-14T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 235.8,
+        "sea_surface_wave_maximum_height": 3.76
+    },
+    "2018-11-14T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 235.2,
+        "sea_surface_wave_maximum_height": 3.67
+    },
+    "2018-11-14T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 235,
+        "sea_surface_wave_maximum_height": 3.73
+    },
+    "2018-11-14T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.2,
+        "sea_surface_wave_maximum_height": 3.98
+    },
+    "2018-11-14T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 230.7,
+        "sea_surface_wave_maximum_height": 4.28
+    },
+    "2018-11-14T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 226.3,
+        "sea_surface_wave_maximum_height": 4.64
+    },
+    "2018-11-15T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 224,
+        "sea_surface_wave_maximum_height": 4.98
+    },
+    "2018-11-15T03:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 223.8,
+        "sea_surface_wave_maximum_height": 5.12
+    },
+    "2018-11-15T06:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 225.3,
+        "sea_surface_wave_maximum_height": 5.11
+    },
+    "2018-11-15T09:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 227.5,
+        "sea_surface_wave_maximum_height": 5.02
+    },
+    "2018-11-15T12:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 231,
+        "sea_surface_wave_maximum_height": 4.89
+    },
+    "2018-11-15T15:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 234.3,
+        "sea_surface_wave_maximum_height": 4.76
+    },
+    "2018-11-15T18:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 236.3,
+        "sea_surface_wave_maximum_height": 4.68
+    },
+    "2018-11-15T21:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 236.8,
+        "sea_surface_wave_maximum_height": 4.59
+    },
+    "2018-11-16T00:00:00Z": {
+        "sea_surface_wave_from_direction_at_variance_spectral_density_maximum": 237.8,
+        "sea_surface_wave_maximum_height": 4.46
+    },
+    "2018-11-07T00:00:00Z": {
+        "surface_sea_water_speed": 0.045
+    },
+    "2018-11-07T03:00:00Z": {
+        "surface_sea_water_speed": 0.042
+    },
+    "2018-11-07T06:00:00Z": {
+        "surface_sea_water_speed": 0.038
+    },
+    "2018-11-07T09:00:00Z": {
+        "surface_sea_water_speed": 0.044
+    },
+    "2018-11-07T12:00:00Z": {
+        "surface_sea_water_speed": 0.054
+    },
+    "2018-11-07T15:00:00Z": {
+        "surface_sea_water_speed": 0.057
+    },
+    "2018-11-07T18:00:00Z": {
+        "surface_sea_water_speed": 0.06
+    },
+    "2018-11-07T21:00:00Z": {
+        "surface_sea_water_speed": 0.068
+    }
+}
